@@ -1,3 +1,6 @@
 export default function Avatar(props) {
-    <img src={props.author.avatarUrl} alt={props.author.name}/>
+    return <img 
+        src={props.user.avatarUrl} 
+        alt={props.user.name}
+    />
 }
