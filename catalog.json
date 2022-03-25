@@ -1,0 +1,144 @@
+{
+    "parts": [
+
+        {
+        "id": 1,
+        "dateAdd": "20.03.2022",
+        "dateUpdate": "24.03.2022",
+        "name": "Прибор диагностический (Control Service Tool, CMS II)",
+        "number": "4C8195",
+        "components": [ "4C8195", "4C8196", "4C8197", "1387795" ],
+        "use": "Диагностический адаптер",
+        "manufacturer": "CAT",
+        "division": "CE",
+        "warehouse": [ "2", "1", "4", "1" ],
+        "condition": 80,
+        "quantity": 1,
+        "avatar": "",
+        "picture": "",
+        "description": "Составной: адаптер, 3 кабеля, упаковка.",
+        "characteristics": "Model: All Models with CMS Panels • Used to access diagnostic modes on CMS panels (allows service technician to easily enter diagnostic modes) • Allows technician to scroll through active and logged faults • Allows logged faults to be cleared (Используется для калибровки 962H.)",
+        "regNumber": {
+            "user": "Кот А.",
+            "assets": "main",
+            "invNumber": "124",
+            "invDate": "31.03.2010",
+            "amortPeriod": "120"
+        },
+        "otherInfo": ""
+    }, 
+    
+    {
+        "id": 2,
+        "dateAdd": "20.03.2022",
+        "dateUpdate": "24.03.2022",
+        "name": "Съёмник гайки оси (Drive Axle Nut Spanner Wrench)",
+        "number": "4C8757",
+        "components": [ "NPR 3784524" ],
+        "use": "Гаечный ключ",
+        "manufacturer": "CAT",
+        "division": "CE",
+        "warehouse": [ "2", "4", "1", "1" ],
+        "condition": 100,
+        "quantity": 1,
+        "avatar": "",
+        "picture": "",
+        "description": "Цельный. Хранится в картонной упаковке.",
+        "characteristics": "Model Usage: Wheel Skidder Models 525C, 535C, 545C • Used to remove and install 9C-6313 nut to quickly and easily disassemble and assemble drive axle assembly",
+        "regNumber": {
+            "user": "",
+            "assets": "not registered",
+            "invNumber": "",
+            "invDate": "",
+            "amortPeriod": ""
+        },
+        "otherInfo": ""
+    },
+
+    {
+        "id": 3,
+        "dateAdd": "20.03.2022",
+        "dateUpdate": "24.03.2022",
+        "nameRus": "Адаптер",
+        "nameEng": "Spacer",
+        "number": "5P8625",
+        "components": [ "" ],
+        "use": "Втулки - монтаж",
+        "manufacturer": "CAT",
+        "division": "CE",
+        "warehouse": [ "2", "3", "1", "1" ],
+        "condition": 90,
+        "quantity": 1,
+        "avatar": "",
+        "picture": "",
+        "description": "Цельный. Хранится в картонной упаковке.",
+        "characteristics": "Model: D8, D9, D10 and D11 Tractors • Special Service Tools for D8, D9, D10, and D11 Track-Type Tractors",
+        "regNumber": {
+            "user": "",
+            "assets": "not main",
+            "invNumber": "1450",
+            "invDate": "",
+            "amortPeriod": ""
+        },
+        "otherInfo": ""
+    },
+
+    {
+        "id": 4,
+        "dateAdd": "20.03.2022",
+        "dateUpdate": "24.03.2022",
+        "nameRus": "Комплект адаптеров для выпрессовки втулок",
+        "nameEng": "Bearing Puller Adapters",
+        "number": "BPULAD",
+        "components": [ "9U5336", "9U5337", "9U5338", "9U5339", "9U6227", "1233804", "2314349", "1P1831", "1P1832" ],
+        "use": "Втулки - монтаж",
+        "manufacturer": "CAT",
+        "division": "CE",
+        "warehouse": [ "2", "5", "3", "3" ],
+        "condition": 80,
+        "quantity": 1,
+        "avatar": "",
+        "picture": "",
+        "description": "Адаптер. Хранятся в металлическом красном ящике.",
+        "characteristics": "Used with the following tooling when adapter plate has 1 1/4-12 threaded holes",
+        "regNumber": {
+            "user": "",
+            "assets": "not main",
+            "invNumber": "7272",
+            "invDate": "30.12.2019",
+            "amortPeriod": ""
+        },
+        "otherInfo": "Необходимо скорректировать учетные номера"
+    },
+
+    {
+        "id": 5,
+        "dateAdd": "20.03.2022",
+        "dateUpdate": "24.03.2022",
+        "nameRus": "Комплект оборудования для регулировки клапанов CG132/TCG2016",
+        "nameEng": "No",
+        "number": "CG132VL",
+        "components": [ "12276678", "12319857" ],
+        "use": "ДВС - регулировка клапанов",
+        "manufacturer": "MWM",
+        "division": "PS",
+        "warehouse": [ "2", "4", "3", "2" ],
+        "condition": 70,
+        "quantity": 1,
+        "avatar": "",
+        "picture": "",
+        "description": "Составной. Хранится в пластиковом кейсе. 12276678 - приспособление для вращения двигателя. 12319857 - устройство изменения зазора клапанов.",
+        "characteristics": "Комплект оборудования для регулировки клапанов CG132/TCG2016. ",
+        "regNumber": {
+            "user": "",
+            "assets": "main",
+            "invNumber": "",
+            "invDate": "",
+            "amortPeriod": ""
+        },
+        "otherInfo": "Кот - 12276678 - Инв. 425 02.09.2015 5 лет.; 12319857 - Инв. 426 02.09.2015 - 5 лет"
+    }
+
+    ]
+}
+
