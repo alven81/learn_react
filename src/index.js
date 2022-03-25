@@ -4,6 +4,7 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import FirstComponent from "./FirstComponent/FirstComponent";
 import Comment from "./Comment/Comment";
+import { Watch } from "./Watch/Watch";
 
 //----------------
 
@@ -34,7 +35,12 @@ ReactDOM.render(
 
 //----------------
 
+ReactDOM.render(
+  <Watch/>,
+  document.getElementById("Watch")
+)
 
+//----------------
 
 // const itemsArray = [
 //   "first string",
